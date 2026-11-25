@@ -1,0 +1,3 @@
+interface:
+  display_name: "Description ZH"
+  short_description: "查看自动翻译的状态，立即检查新插件，也可以暂停翻译或恢复原文。"

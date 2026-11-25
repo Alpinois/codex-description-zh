@@ -1,0 +1,11 @@
+{
+  "name": "description-zh",
+  "version": "1.2.0",
+  "description": "自动把本机新装插件和技能的功能介绍翻成简体中文。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Description ZH",
+    "shortDescription": "自动检查新装或更新的插件和技能，把功能介绍翻成容易看懂的中文。",
+    "longDescription": "自动检查本机已安装的插件、技能和你选中的插件市场，把可编辑的功能介绍翻成简体中文。保留原名与原文备份，可预览翻译范围、暂停或恢复。"
+  }
+}

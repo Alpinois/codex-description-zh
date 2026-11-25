@@ -1,0 +1,11 @@
+{
+  "name": "personal-zh-tools",
+  "interface": { "displayName": "Description ZH" },
+  "plugins": [
+    {
+      "name": "description-zh",
+      "source": { "source": "local", "path": "./plugins/description-zh" },
+      "category": "Productivity"
+    }
+  ]
+}
